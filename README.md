@@ -18,11 +18,26 @@ I love systems that work seamlessly, are well-documented, and make life easier f
 ---
 
 ### 🧠 What I’m focused on
-- TypeScript, Next.js, and distributed system patterns  
-- Scalable backend design (Node.js, Express, MongoDB)  
-- Payment & email integrations (Paystack, Stripe, Zoho, SendGrid)  
-- CI/CD pipelines, containerization, and cloud deployment (Vercel, Railway, Docker, AWS)  
-- Testing, performance optimization, and developer experience  
+- Distributed system patterns  
+- Scalable backend design  
+- Payment & email integrations 
+- CI/CD pipelines, containerization, and cloud deployment
+- Testing, performance optimization, and developer experience
+
+<p>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+<img alt="Paystack" src="https://img.shields.io/badge/Paystack-009639?style=for-the-badge" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-AUTO?style=for-the-badge&color=44CC11" />
+<img alt="Testing" src="https://img.shields.io/badge/Testing-coverage?style=for-the-badge&color=blue" />
+</p>
 
 ---
 
