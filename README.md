@@ -1,6 +1,6 @@
 # Hi, I'm Dumebi 👋
 
-I'm a fullstack engineer passionate about building reliable, scalable, and user-focused products — from idea to deployment.  
+I'm a Frontend engineer passionate about building reliable, scalable, and user-focused products — from idea to deployment.  
 I love systems that work seamlessly, are well-documented, and make life easier for both users and developers.
 
 ---
@@ -16,13 +16,6 @@ I love systems that work seamlessly, are well-documented, and make life easier f
 - 💄 **[African Skincare Festival](https://africaskincarefestival.com)** — e-commerce platform with payment automation and email integrations  
 
 ---
-
-### 🧠 What I’m focused on
-- Distributed system patterns  
-- Scalable backend design  
-- Payment & email integrations 
-- CI/CD pipelines, containerization, and cloud deployment
-- Testing, performance optimization, and developer experience
 
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -45,4 +38,3 @@ I love systems that work seamlessly, are well-documented, and make life easier f
 - 📫 Email: **ohirikennedy@yahoo.com**  
 - 🌐 Portfolio: [dennekjr.com](https://dennekjr.com)  
 - 💼 LinkedIn: [Kennedy-Ohiri](https://linkedin.com/in/Kennedy-Ohiri)  
-- 🧑‍💻 GitHub: [@DennekJr](https://github.com/DennekJr)
