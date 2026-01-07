@@ -6,7 +6,7 @@ I love systems that work seamlessly, are well-documented, and make life easier f
 ---
 
 ### 🧩 What I’m currently building
-- 🔭 **[Partyvest](https://partyvest.com)** — event planning, gifting & vendor coordination platform  
+- 🔭 **[Partyverse](https://partyverse.com)** — event planning, gifting & vendor coordination platform  
 - 🚗 **[DriveWell](https://drivewellapp.com)** — streamlining vehicle registration, parts maintenance and fleet management
 - 🎭 **[Cast](https://cast.africa)** — portfolio and showcase platform for African talent and production crews  
 - 🎬 **[Nollytime](https://nollytime.com)** — film discovery and streaming-ready preview platform  
